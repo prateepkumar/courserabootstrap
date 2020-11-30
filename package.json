@@ -10,11 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://DevPrateep@bitbucket.org/DevPrateep/prateep.git"
+    "url": "https://github.com/prateepkumar/courserabootstrap.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/DevPrateep/git-test#readme",
+  "homepage": "https://github.com/prateepkumar/courserabootstrap",
   "devDependencies": {
     "lite-server": "^2.6.1"
 }
